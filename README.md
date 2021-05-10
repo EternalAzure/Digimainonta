@@ -1,5 +1,5 @@
 # Digimainonta
 Mitä olen oppinut digimainonnasta
 
-[Facebook]()
-[Google]()
+[Facebook](/Facebook.md)
+[Google](/Google.md)
