@@ -19,4 +19,4 @@ Halvimmaksi tulee, kun itse tekee.
 [Ohjeet oikeuksien jakamiseen](https://oddydigital.fi/oikeuksien-jako/)
 
 Vähintään kaksi viikkoa ennen mainonnan suunniteltua alkua on hyvä olla yhteistyökumppani valittuna ja mainosmateriaalin tekeminen aloitettu tai 
-mieluummin tehty. Jos ongelma ilmenee perjantaina asiaan palataan maanantaina.
+mieluummin tehty. Jos ongelma ilmenee perjantaina asiaan palataan maanantaina. Jokainen työntekijä on erilainen. Jos mainostoimisto päätetään ottaa mukaan on tärkeää ilmaista heti ja selkeästi, jos toivotaan mainostoimiston ottavan vetovastuun kampanjasta. Tämä on tehtävä jo kilpailutusta tehtäessä. Jotta vetovastuu voidaan antaa mainostoimistolle on mainostoimiston voitava hallinnoida mainostiliä (ohjeet kappaleen alussa). Toinen vaihtoehto on antaa mainostoimiston tehdä uusitili tätä tarkoitusta varten.
