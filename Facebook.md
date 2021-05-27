@@ -17,8 +17,8 @@ Poliittiset toimijat vaativat erillisen luvan Facebookilta, jonka saaminen voi k
 ## Tilin luominen
 Muista sallia scriptit! Muuten oleellinen sisältö ei näy! </br>
 Tilin luomista varten tarvitaan facebook-tili. FB Business Manager tiliä ei voi luoda, jos facebook-tili, joka käyttää valitsemaasi mailia on alle tunnin vanha.
-Tilejä voi olla vain 2 per @mydomain.com
-[Nettisivu](https://business.facebook.com/)
+Tilejä voi olla vain 2 per @mydomain.com.<br>
+[business.facebook.com](https://business.facebook.com/)
 
 ## Käyttäjien lisääminen
 Vain ylläpitäjät voivat lisätä ihmisiä.
